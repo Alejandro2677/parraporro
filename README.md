@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Parraporro
+# 👋 ¡Hola! Soy Alejandro
 
 Soy un programador con experiencia en desarrollo de aplicaciones visuales utilizando **Eclipse** como entorno principal. Me especializo en la integración de interfaces gráficas con **bases de datos**, asegurando soluciones funcionales, escalables y orientadas al usuario.
 
