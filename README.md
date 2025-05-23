@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Parraporro
 
-<!--
-**parraporro/parraporro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un programador con experiencia en desarrollo de aplicaciones visuales utilizando **Eclipse** como entorno principal. Me especializo en la integración de interfaces gráficas con **bases de datos**, asegurando soluciones funcionales, escalables y orientadas al usuario.
 
-Here are some ideas to get you started:
+## 💻 Tecnologías y herramientas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java (Swing, JavaFX)
+- Eclipse IDE
+- SQL / MySQL / PostgreSQL
+- JDBC
+- Git & GitHub
+
+## 🚀 En qué estoy trabajando
+
+Actualmente, me enfoco en el desarrollo de aplicaciones de escritorio orientadas a la gestión de información, optimizando tanto la experiencia del usuario como el rendimiento de las consultas a base de datos.
+
+## 📌 Objetivos
+
+- Mejorar continuamente mis habilidades en diseño de interfaces visuales.
+- Profundizar en arquitecturas de software para aplicaciones empresariales.
+- Contribuir a proyectos colaborativos de código abierto.
+
+## 📫 ¿Cómo contactarme?
+
+Puedes escribirme a través de GitHub o conectarte conmigo si compartimos intereses profesionales.
+
+---
+
+Gracias por visitar mi perfil.
